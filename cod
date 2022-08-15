@@ -1,0 +1,8 @@
+public class cod{
+    public static void main(String[] args) {
+        for(int i;i<3;i++){
+            system.out.println
+        }
+        system.out.println("spitik");
+    }
+}
